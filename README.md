@@ -1,1 +1,12 @@
-# -Prometheus---
+# Система мониторинга Prometheus - Александр Шевцов
+![image](https://user-images.githubusercontent.com/25949605/232763855-16a7178f-5eec-4f96-8846-7d468697837b.png)
+![image](https://user-images.githubusercontent.com/25949605/232763863-318bc57a-14bd-4a14-9a05-d43f6034e144.png)
+![image](https://user-images.githubusercontent.com/25949605/232763874-2f3b2b32-517d-40a2-8746-2038153121e8.png)
+![image](https://user-images.githubusercontent.com/25949605/232763880-02417f66-f9bf-4d54-aa20-e4e4a5471b38.png)
+![image](https://user-images.githubusercontent.com/25949605/232763899-ca74ded8-1f1f-42a8-989e-f0d296433a84.png)
+![image](https://user-images.githubusercontent.com/25949605/232763905-b27bd6dd-0920-4590-80f0-e845e759a128.png)
+![image](https://user-images.githubusercontent.com/25949605/232763910-42335d41-f588-4191-9b34-50b10f14375d.png)
+![image](https://user-images.githubusercontent.com/25949605/232763924-df3bc4e3-8e59-4c0f-a6d7-9eb89968ebf3.png)
+![image](https://user-images.githubusercontent.com/25949605/232763941-e8850f78-1cf6-4729-ad85-30b2cb0ab1cf.png)
+![image](https://user-images.githubusercontent.com/25949605/232763954-446c7d69-3f1b-4df7-a34b-6f8f6ea931b0.png)
+![image](https://user-images.githubusercontent.com/25949605/232763960-a598f9b7-28e0-49b0-893b-a8e59801409b.png)
